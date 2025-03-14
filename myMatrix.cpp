@@ -1,7 +1,3 @@
-//
-// Created by brian on 3/11/2025.
-//
-
 #include "myMatrix.h"
 #include <cfloat>
 #include <cmath>

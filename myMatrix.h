@@ -1,6 +1,3 @@
-//
-// Created by brian on 3/11/2025.
-//
 #include <iostream>
 using namespace std;
 #ifndef MATRIX_H
